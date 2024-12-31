@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/circles.frag</file>
+        <file>shaders/circles.vert</file>
+        <file>shaders/triangles.vert</file>
+        <file>textures/circle.png</file>
+        <file>Icon_start.png</file>
+    </qresource>
+</RCC>
